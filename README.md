@@ -158,5 +158,3 @@ res.cookie("refreshToken", refreshToken, {
 | POST   | `/api/login`   | Login existing user|
 
 ---
-
-For contributions or enhancements, extend `AccountServices.ts` and create middleware for token validation.
